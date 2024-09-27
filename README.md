@@ -5,10 +5,6 @@
 
 I'm a **Fullstack Web Developer** 💻 and **Localization Specialist** 🌍 with a passion for creating seamless user experiences through technology. My experience in localization has honed my ability to pay attention to detail and ensure quality in all aspects of product development.
 
-### Projects 🚀
-
-- **Rural Experience**: Developed a web application for renting rural houses with a focus on user-friendly design and robust backend functionality. 
-
 ### Skills 🛠️
 
 - **Languages & Frameworks**: `JavaScript`, `React`, `Python`, `Node.js`
